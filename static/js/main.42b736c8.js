@@ -12081,7 +12081,7 @@
         d = n.p + "static/media/JavaScript.3dfb665e058d08c99f28.png",
         p = n.p + "static/media/react.8a6fc0a24a800d1e0f4a.png",
         m = n.p + "static/media/blockchain.8acfb44a4db42a19ebde.png",
-        h = n.p + "static/media/music-nft.png",
+        h = n.p + "static/media/music-nft.jpg",
         g = n.p + "static/media/stock-market.jpg",
         y = n.p + "static/media/food-delivery.png",
         v = n.p + "static/media/ai-chess.png",
