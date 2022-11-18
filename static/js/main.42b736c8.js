@@ -12345,7 +12345,7 @@
             image: g,
             name: "Android App For Industry",
             description:
-              "Encoded a model to forecasts the trend in the market by reducing the onscreen technical indicators and delivering detailed analysis to traders.",
+              "The android app is used to display the Product availability, Job availability, and facilities available in the company. This app is built using Java, XML for Frontend, and also Rest API is used for connectivity",
             tags: ["JAVA", "XML", "REST-API", "PHP", "MYSQL", "Android Studio"],
             frontend: "",
             backend: "",
