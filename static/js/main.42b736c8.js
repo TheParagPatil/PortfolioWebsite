@@ -12082,7 +12082,7 @@
         p = n.p + "static/media/react.8a6fc0a24a800d1e0f4a.png",
         m = n.p + "static/media/blockchain.8acfb44a4db42a19ebde.png",
         h = n.p + "static/media/music-nft.png",
-        g = n.p + "static/media/stock-market.png",
+        g = n.p + "static/media/stock-market.jpg",
         y = n.p + "static/media/food-delivery.png",
         v = n.p + "static/media/ai-chess.png",
         b = n.p + "static/media/ecommerce.png",
